@@ -6,7 +6,7 @@ files:
   - name: art.py
     visible: true
     learner_created: false
-  - name: solution.py
+  - name: students_score.py
     visible: true
     learner_created: false
 status: Unchecked

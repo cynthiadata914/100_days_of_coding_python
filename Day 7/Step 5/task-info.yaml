@@ -6,7 +6,7 @@ files:
   - name: __init__.py
     visible: false
     learner_created: false
-  - name: solution.py
+  - name: students_score.py
     visible: true
     learner_created: false
   - name: hangman_art.py
